@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 53%;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-01 {
+    position: relative;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.header-01 .sticker1 {
+    position: absolute;
+    top: -5;
+    right: 0;
+    padding-right: 5px;
+}
+
+.header-02 {
+    position: relative;
+    background-color: rgb(83, 150, 227);
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 5px;
+    position: relative;
+}
+
+.header-02 .sticker2 {
+    position: absolute;
+    top: -5;
+    right: 0;
+    padding-right: 5px;
+}
+
+.container .paragraph {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.container .paragraph .span-pink {
+    color: rgb(219, 65, 117);
+}
+
+.header-03 {
+    position: relative;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.diven {
+    border: 1px solid rgb(175, 171, 171);
+}
+
+.header-03 .sticker3 {
+    position: absolute;
+    top: -5;
+    right: 0;
+    padding-right: 5px;
+}
