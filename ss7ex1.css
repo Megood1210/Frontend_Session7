@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.container{
+    background-color: #eaeaea;
+    border: 1px;
+    color: #231751;
+    padding: 24px;
+}
+.button1 {
+    background-color: #bc2229;
+    border-radius: 4px;
+    padding: 12px;
+    color: white;
+    font-weight: 500;
+    border: 1px solid transparent;
+    font-size: 15px;
+    width: 170px;
+}
+.button2 {
+    background-color: #eaeaea;
+    border-radius: 4px;
+    padding: 12px;
+    color: #231751;
+    font-weight: 500;
+    border: 1px solid transparent;
+    font-size: 15px;
+    width: 170px;
+    border-color: #c1bcd1;
+}
